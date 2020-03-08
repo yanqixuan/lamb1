@@ -41,7 +41,7 @@ export default {
   width: 100vw;
   height: 100vh;
   min-height: 14rem;
-  background: url('../assets/bg.png') no-repeat;
+  background: #12151b;
   background-size: 100% 100%;
 }
 .wxtip {
